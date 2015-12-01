@@ -1,0 +1,8 @@
+Makefile
+SDL.qpg
+build-deps
+config.log
+config.status
+libtool
+sdl-config
+sdl.pc
